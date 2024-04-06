@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+X-COMMENT: qliphongkham.Main will be added automatically by build
